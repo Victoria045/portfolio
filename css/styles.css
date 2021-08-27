@@ -6,6 +6,12 @@ body {
   background-color: #cdcdcd;
 }
 
+.container-wrapper {
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-gap: 40px;
+}
+
 .header {
   width: 100%;
   height: 60px;
@@ -23,6 +29,24 @@ ul li {
 }
 
 ul li a {
-  color: white;
+  color: #ffffff;
   text-decoration: none; 
+}
+
+.content {
+  display: grid;
+  grid-template-columns: 500px 1fr;
+  grid-gap: 20px;
+  height: 800px;
+  margin-left: 120px;
+  margin-right: 120px;
+}
+
+.grid-left {
+  background-color: #85BDE3;
+  box-shadow: border-box;
+}
+
+.grid-right {
+  background-color: #f1f1f1;
 }
