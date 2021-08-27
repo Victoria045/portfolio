@@ -1,5 +1,5 @@
 # portfolio
-My personal portfolio web page.
+My personal portfolio landing page.
 # {My-First-Webpage}
 #### {Brief description of application}, {Date of current version}
 #### By **{List of contributors}**
