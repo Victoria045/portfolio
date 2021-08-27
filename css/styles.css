@@ -12,6 +12,10 @@ body {
   background-color: #2E86C1;
 }
 
+.header-cont {
+  float: right;
+}
+
 ul li {
   list-style: none;
   display: inline-block;
