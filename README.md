@@ -16,4 +16,4 @@ I have done.
 Incase of any issues at hand, here is the contact email address v@gmail.com.
 ### License
 MIT License. This website is 100% free. You do not have the rights to resell, sublicense or redistribute (even for free)
-the site on its own or as separate attachment from any oy your work.
+the site on its own or as separate attachment from any of your work.
