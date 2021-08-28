@@ -24,7 +24,7 @@ ul li {
   padding: 25px; 
 }
 
-ul li a {
+ul li a, button a {
   color: #ffffff;
   text-decoration: none; 
 }
@@ -87,6 +87,14 @@ button {
   padding:5px;
   height: 40px;
   float: right;
+}
+
+button a:hover {
+  /* background-color: #2E86C1; */
+  text-decoration: none;
+  /* margin-top: 50px;
+  padding:5px;
+  height: 40px; */
 }
 
 .progress-bar {
