@@ -1,19 +1,20 @@
 # Portfolio
-My personal portfolio landing page.
+My personal portfolio landing page.revious
 # Author 
-This website is made by Victoria Beryl a software developer.
+This landing page is made by Victoria Beryl, a software developer.
 ## Description
-This is my personal portfolio website, it highlights my skill sets. Areas I am proficient in. An about me section with
-details about who I am. My background, the types of work I have been part of in the past years. And a list of projects
+This is my personal portfolio landing page, it highlights my skill sets. Areas I am proficient in. An about me section with
+details about who I am. My background, the types of work I have been part of in the p years. And a list of projects
 I have done.
 ## Setup/Installation Requirements
-* Load the website url on a browser
+* Install you preferred browser
+* Load the website url on your browser
 ## Technologies Used
-* Bootstrap
+* Bootstrap 5 v1.0 - 2021-07-09
 * HTML
 * CSS
 ## Support and contact details
-Incase of any issues at hand, here is the contact email address v@gmail.com.
+Incase of any issues at hand, here is the contact email address v@gmail.com
 ### License
 MIT License. This website is 100% free. You do not have the rights to resell, sublicense or redistribute (even for free)
 the site on its own or as separate attachment from any of your work.
