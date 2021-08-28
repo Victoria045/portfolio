@@ -60,9 +60,14 @@ ul li a, button a {
   font-family: Arial, Helvetica, sans-serif;
 }
 
+input {
+  background-color: none;
+}
+
 #one {
   text-align: center;
   padding: 8px;
+  margin: 20px;
 }
 
 .grid-right {
@@ -75,7 +80,12 @@ ul li a, button a {
   padding: 10px;
   border: solid 2px #85BDE3;
   border-radius: 5px;
-  height: 300px;
+  height: 310px;
+}
+
+.par {
+  font-size: 10px;
+  margin: 0px;
 }
 
 button {
@@ -97,6 +107,11 @@ button a:hover {
   height: 40px; */
 }
 
+.prog {
+  /* display: grid;
+  grid-template-columns: 1fr; */
+  padding: 0px;
+}
 .progress-bar {
   background-color: #85bde3;
 }
@@ -167,14 +182,4 @@ footer {
   background-color: #2E86C1;
   color: white;
   height: 40px;
-}
-
-a:visited {
-  text-decoration: underline;
-  
-}
-
-/* mouse over and selected link */
-a:hover {
-  text-decoration: underline;
 }
