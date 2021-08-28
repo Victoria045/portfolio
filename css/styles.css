@@ -154,7 +154,14 @@ button {
 }
 
 footer {
+  text-align: center;
+  padding: 5px;
   background-color: #2E86C1;
-  color: #ffffff;
-  margin-bottom: 0px;
+  color: white;
+  height: 40px;
+}
+
+/* mouse over and selected link */
+a:hover, a:active {
+  text-decoration: underline;
 }
