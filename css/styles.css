@@ -161,7 +161,12 @@ footer {
   height: 40px;
 }
 
+a:visited {
+  text-decoration: underline;
+  
+}
+
 /* mouse over and selected link */
-a:hover, a:active {
+a:hover {
   text-decoration: underline;
 }
