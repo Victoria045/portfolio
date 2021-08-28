@@ -1,4 +1,4 @@
-# portfolio
+# Portfolio
 My personal portfolio landing page.
 # Author 
 This website is made up by software developer Victoria Beryl.
